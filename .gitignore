@@ -1,0 +1,17 @@
+# Ignorer tous les dossiers node_modules
+**/node_modules/
+
+# Autres règles générales à ignorer
+# Logs
+*.log
+
+# Environnement
+.env
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# IDEs/Éditeurs
+.vscode/
+.idea/
